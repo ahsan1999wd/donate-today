@@ -45,7 +45,25 @@ p{
   background-image: linear-gradient(orange,tomato);
   font-weight: 600;
   font-size: 40px;
-  
-
 }
-
+.second-pera{
+  color: gray;
+  font-size: 30px;
+  padding-top: 35px;
+  padding-bottom: 50px;
+}
+.donate-today{
+  text-align: center;
+  padding-top: 200px;
+  font-size: 45px;
+}
+#all-div{
+display: flex;
+align-content: center;
+justify-content: center;
+}
+#all-div div{
+ align-items: center;
+ margin: 220px;
+ width: 100%;
+}
