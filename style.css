@@ -1,14 +1,30 @@
 body{
   font-family: 'Poppins', sans-serif;
+  margin: 0%;
 }
 .background-image{
   background-image: url(images/donation13.jpg);
   background-size: cover;
   background-repeat: no-repeat;
+  width: 100vw;
   height: 100vh;
+  position: relative;
 }
 *{
   margin: 0%;
   padding: 0%;
+}
+.first-section{
+  width: 100%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.h1{
+  font-size: 50px;
+  text-align: center;
+  
+}
+.link-button{
+  text-align: center;
 }
 
