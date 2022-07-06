@@ -4,27 +4,20 @@ body{
 }
 .background-image{
   background-image: url(images/donation13.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
   width: 100vw;
   height: 100vh;
   position: relative;
+  background-size: cover;
 }
-*{
-  margin: 0%;
-  padding: 0%;
-}
-.first-section{
+.head-element{
   width: 100%;
-  padding-left: 5%;
-  padding-right: 5%;
-}
-.h1{
-  font-size: 50px;
-  text-align: center;
-  
-}
-.link-button{
-  text-align: center;
+  height: 100%;
+  font-size: 40px;
+  color: white;
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0,0,0,0.5);
 }
 
