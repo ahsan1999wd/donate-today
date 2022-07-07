@@ -72,3 +72,22 @@ h3{
   font-family:'Lobster', cursive;
   font-weight: 400;
 }
+.first-contribute{
+display: flex;
+align-items: center;
+}
+.second-contribute{
+  display: flex;
+  align-items: center;
+  
+}
+.half-width{
+width: 100%;
+padding-left: 2%;
+padding-right: 2%;
+
+}
+.half-width img{
+width: 100%;
+height: auto;
+}
